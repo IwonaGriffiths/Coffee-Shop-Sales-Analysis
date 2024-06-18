@@ -1,2 +1,2 @@
 # Coffee-Shop-Sales-Analysis
-I performed a guided project using Coffee Shop Data. I used SQL and Power BI tools. Project was guided by 'Data Tutoriols' YouTube channel. I learnt interesting Power BI DAX queries and visualizations. I also learnt how to use SQL queries to check results in Power BI report. 
+I completed a guided project using Coffee Shop Data, utilizing SQL and Power BI tools. The project was guided by the 'Data Tutorials' YouTube channel. I learned interesting Power BI DAX queries and visualizations, and I also learned how to use SQL queries to check results in Power BI reports.
